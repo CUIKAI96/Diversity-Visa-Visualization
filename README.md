@@ -9,3 +9,9 @@ Natives of the following countries were not eligible to participate in DV-2011: 
 
 Diversity Visa Program Statistics
 https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-program-statistics.html
+
+
+Step 1: Data Collection 
+2018 with link 
+
+https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2017AnnualReport/FY17AnnualReport-TableVII.pdf
