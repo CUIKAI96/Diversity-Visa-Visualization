@@ -15,3 +15,6 @@ Step 1: Data Collection
 2018 with link 
 
 https://travel.state.gov/content/dam/visas/Statistics/AnnualReports/FY2017AnnualReport/FY17AnnualReport-TableVII.pdf
+
+extract data table from pdf files by installing camelot first 
+```pip3 install camelot-py[cv] tabula-py```
